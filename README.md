@@ -127,12 +127,4 @@ This project is developed for academic purposes as part of MAE 598 coursework.
 - Arizona State University - School of Engineering
 - Teammates for collaboration and integration
 
-## 📧 Contact
-
-For questions or collaboration:
-- Vishal Krishna Shah - [your email]
-- Devika - [her email]
-
----
-
 **⭐ Star this repo if you find it useful!**
